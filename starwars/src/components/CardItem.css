@@ -1,0 +1,25 @@
+.characters{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+}
+.card{
+    width: 50%;
+    text-align: center;
+    border: 2px solid pink;
+    margin: 2% auto;
+    background: pink;
+    min-width: 300px;
+    max-width: 500px; 
+    padding: 2%;
+}
+ul {
+    list-style-type: none;
+  }
+  
+  h1{
+      text-align: center;
+      margin: 5% auto;
+      width: 100%;
+  }
